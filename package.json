@@ -1,0 +1,21 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Kevin A Smith",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
